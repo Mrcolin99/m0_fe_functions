@@ -41,3 +41,6 @@
 
       console.log(`the average is: ${avg}.`)
       }
+average(1, 2)
+
+//added a call for average
